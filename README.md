@@ -1,6 +1,6 @@
 ## Step by Step Penggunaan GIT
 
-## Menginstal GIT git.scm
+## Menginstal GIT
 
 Pertama kalian harus instal terlebih dahulu software [Git Bash](https://git-scm.com/downloads)
 Lalu kalian bisa buka software tersebut
